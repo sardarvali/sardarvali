@@ -1,142 +1,217 @@
-# 👋 Hi, I'm Sardar Vali
 
-## 🚀 DevOps Engineer | Cloud Architect | Android Developer
+<h1 align="center">Sardar Vali</h1>
+<p align="center">
+  <strong>DevOps Engineer • Cloud Architect • Android Developer</strong><br/>
+  Building resilient cloud platforms, high-velocity CI/CD, and modern Android apps.
+</p>
 
-Passionate about building scalable cloud infrastructure, automating workflows, and crafting seamless mobile experiences. I specialize in multi-cloud architectures, CI/CD pipelines, containerization, and modern Android development.
+<p align="center">
+  <a href="https://github.com/sardarvali"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/DevOps-Hands--on-blue?logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Production%20Ready-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
+</p>
+
+<hr/>
+
+## Cloud | Platforms | Languages
+<p>
+  <img src="https://img.shields.io/badge/OCI-FF0000?logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white"/>
+</p>
 
 ---
 
 ## 🎓 Certifications
+<p>
+  <img src="https://img.shields.io/badge/✅-Verified-success"/>
+</p>
 
-- 🏆 **OCI 2025 Certified AI Foundations Associate**
-- 🏆 **Generative AI Professional**
-- 🏆 **OCI 2025 Certified DevOps Professional**
-- 🏆 **OCI 2025 Certified Multicloud Architect Professional**
-- 🏆 **OCI Foundations Associate (2025)**
-- 🏆 **OCI Networking Professional**
+<p>
+  <img src="https://img.shields.io/badge/OCI%202025-AI%20Foundations%20Associate-red?logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Professional-blueviolet"/>
+  <img src="https://img.shields.io/badge/OCI%202025-DevOps%20Professional-red?logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCI%202025-Multicloud%20Architect%20Professional-red?logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCI-Foundations%20Associate%20(2025)-red?logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCI-Networking%20Professional-red?logo=oracle&logoColor=white"/>
+</p>
 
----
-
-## 💼 About Me
-
-I'm a results-driven DevOps Engineer and Cloud Architect with expertise spanning **AWS, GCP, Oracle Cloud Infrastructure (OCI)**, and modern DevOps practices. My skill set includes:
-
-### ☁️ Cloud & DevOps Expertise
-- **Multi-Cloud Architecture**: Designing and implementing solutions across AWS, GCP, and OCI
-- **Container Orchestration**: Expert in Docker, Kubernetes, Helm charts, and container security
-- **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab CI, ArgoCD for automated deployments
-- **Infrastructure as Code**: Terraform, CloudFormation, Ansible for scalable infrastructure
-- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack, CloudWatch
-- **Cloud Services**: EC2, S3, Lambda, RDS, GKE, Cloud Functions, Compute Engine
-
-### 📱 Android Development
-- **Modern Android**: Kotlin, Jetpack Compose, MVVM architecture
-- **Advanced Libraries**: Jetpack components, Coroutines, Flow, Room, Retrofit
-- **UI/UX**: Material Design 3, responsive layouts, animations
-- **Backend Integration**: RESTful APIs, Firebase, real-time data sync
-
-### 🛠️ Technical Arsenal
-- **Languages**: Python, Kotlin, Java, Bash, YAML, Groovy
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible, Git
-- **Cloud Platforms**: AWS, GCP, Oracle Cloud (OCI), Azure basics
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
-- **Security**: Cloud security best practices, IAM, secrets management, RBAC
+> Note: Add credential IDs/links here for quick verification when available.
 
 ---
 
-## 🏆 Key Achievements & Experience
+## 🧰 Tools & Technologies
+- Clouds: OCI, AWS, GCP, Azure (basic)
+- Containers & Orchestration: Docker, Kubernetes, Helm
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, Argo CD
+- IaC & Config: Terraform, Ansible, CloudFormation
+- Observability: Prometheus, Grafana, ELK, CloudWatch
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Languages: Kotlin, Java, Python, Bash, YAML, Groovy
 
-### Cloud Computing & DevOps Internships
-- ✅ Designed and deployed **multi-cloud architectures** with 99.9% uptime
-- ✅ Automated infrastructure provisioning reducing deployment time by **70%**
-- ✅ Implemented **CI/CD pipelines** serving production workloads
-- ✅ Orchestrated **Kubernetes clusters** for microservices deployments
-- ✅ Developed **monitoring solutions** with Prometheus and Grafana
+---
 
-### AI & Machine Learning Training
-- ✅ Completed **Generative AI Professional** certification
-- ✅ Integrated AI/ML workflows into DevOps pipelines
-- ✅ Explored serverless AI deployments on cloud platforms
+<details>
+  <summary>☁️ Cloud & DevOps Expertise</summary>
 
-### Android Development Projects
-- ✅ Built production-ready Android apps with **Kotlin and Jetpack Compose**
-- ✅ Implemented **MVVM architecture** with clean code principles
-- ✅ Integrated cloud backends with real-time data synchronization
+- Multi-cloud reference architectures (AWS, GCP, OCI) with resilient networking and 99.9%+ uptime
+- GitOps workflows with Argo CD and Progressive Delivery (blue/green, canary)
+- Secure supply chain (SLSA concepts), SBOM, and secrets management (Sealed Secrets, Vault)
+- Policy as Code with OPA/Gatekeeper, RBAC, IAM, and least privilege
+- Cost optimization, auto-scaling, and chaos testing for reliability
+</details>
+
+<details>
+  <summary>📱 Android Development</summary>
+
+- Kotlin-first, Jetpack Compose, MVVM + Clean Architecture
+- Coroutines/Flow, Room, Retrofit/OkHttp, Kotlinx Serialization
+- Modularization, DI (Hilt), testing with JUnit/MockK
+- Material 3, animations, responsive UI, and accessibility
+</details>
+
+<details>
+  <summary>🛠️ Technical Arsenal</summary>
+
+- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, Argo CD
+- IaC: Terraform, Ansible, CloudFormation
+- Security: IAM, RBAC, CIS benchmarks, image scanning, secret rotation
+- SRE: Monitoring/alerting (Prometheus, Grafana), logging (ELK), tracing (OTel)
+</details>
+
+---
+
+## 🧪 Example Snippets
+
+### 1) CI/CD: GitHub Actions (containerized app)
+```yaml
+name: ci
+on: [push, pull_request]
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build
+        run: ./gradlew build --no-daemon
+      - name: Docker build
+        run: |
+          docker build -t ghcr.io/${{ github.repository }}:${{ github.sha }} .
+      - name: Docker login
+        run: echo $CR_PAT | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+      - name: Push image
+        run: docker push ghcr.io/${{ github.repository }}:${{ github.sha }}
+```
+
+### 2) Dockerfile (distroless + non-root)
+```dockerfile
+FROM eclipse-temurin:21-jre AS base
+WORKDIR /app
+COPY build/libs/app.jar app.jar
+
+FROM gcr.io/distroless/java21-debian12
+USER 65532:65532
+WORKDIR /app
+COPY --from=base /app/app.jar /app/app.jar
+ENTRYPOINT ["/usr/bin/java","-jar","/app/app.jar"]
+```
+
+### 3) Android ViewModel (Kotlin + Flow)
+```kotlin
+@HiltViewModel
+class HomeViewModel @Inject constructor(
+  private val repo: Repo
+) : ViewModel() {
+  private val _state = MutableStateFlow(State())
+  val state: StateFlow<State> = _state.asStateFlow()
+
+  fun load() = viewModelScope.launch {
+    runCatching { repo.fetch() }
+      .onSuccess { _state.update { it.copy(items = it.items + it) } }
+      .onFailure { _state.update { it.copy(error = it.message) } }
+  }
+
+  data class State(
+    val items: List<Item> = emptyList(),
+    val error: String? = null
+  )
+}
+```
+
+### 4) Terraform (OCI VCN + subnet)
+```hcl
+provider "oci" {
+  region = var.region
+}
+
+resource "oci_core_vcn" "main" {
+  cidr_block     = "10.0.0.0/16"
+  compartment_id = var.compartment_id
+  display_name   = "main-vcn"
+}
+
+resource "oci_core_subnet" "public" {
+  cidr_block        = "10.0.1.0/24"
+  compartment_id    = var.compartment_id
+  vcn_id            = oci_core_vcn.main.id
+  display_name      = "public-subnet"
+  prohibit_public_ip_on_vnic = false
+}
+```
 
 ---
 
 ## 🎯 Featured Projects
+- DevOps: [K8s GitOps Starter](https://github.com/sardarvali/k8s-gitops-starter) <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+- Cloud: [OCI IaC Modules](https://github.com/sardarvali/oci-iac-modules) <img src="https://img.shields.io/badge/OCI-red?logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>
+- Android: [Compose Starter](https://github.com/sardarvali/compose-starter) <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
 
-### 🍽️ [Restaurant Management System](https://github.com/sardarvali/Restaurant-management-system)
-**Full-stack cloud-native application with automated DevOps pipeline**
-- 🔹 **Backend**: RESTful API with database integration
-- 🔹 **DevOps**: Automated CI/CD pipeline with Docker containerization
-- 🔹 **Cloud**: Deployed on cloud infrastructure with auto-scaling
-- 🔹 **Monitoring**: Real-time monitoring and logging setup
-
-### 🌐 [Portfolio Website](https://github.com/sardarvali/Portfolio)
-**Personal portfolio with serverless cloud hosting**
-- 🔹 **Frontend**: Modern responsive design
-- 🔹 **Cloud Hosting**: Firebase deployment with CDN
-- 🔹 **CI/CD**: Automated deployment pipeline
-- 🔹 **Performance**: Optimized for speed and SEO
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sardarvali&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sardarvali&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sardarvali&theme=radical&hide_border=true)
-
-</div>
+> Explore more at the pinned repositories below.
 
 ---
 
 ## 🌱 Currently Learning & Exploring
-
-- 🔸 **Advanced Kubernetes**: Service mesh (Istio, Linkerd), custom operators
-- 🔸 **Serverless Architectures**: Lambda, Cloud Functions, edge computing
-- 🔸 **AI/ML in DevOps**: MLOps pipelines, automated testing with AI
-- 🔸 **Cloud-Native Security**: Zero-trust architecture, policy enforcement
-- 🔸 **Android Jetpack**: Advanced Compose patterns, performance optimization
-- 🔸 **Multi-Cloud Management**: Unified monitoring, cost optimization strategies
+- Platform Engineering, Backstage, and Internal Developer Platforms (IDP)
+- Advanced Kubernetes (eBPF, CNI, multi-cluster, service mesh)
+- GenAI on clouds (OCI, AWS Bedrock, Vertex AI) and MLOps
 
 ---
 
 ## 💡 Philosophy
-
-> "Automate everything, monitor religiously, and build with empathy for both users and fellow developers."
-
-I believe in writing code that is not only functional but **maintainable, scalable, and delightful to use**. Whether it's:
-- 🔹 Crafting resilient **multi-cloud architectures**
-- 🔹 Designing seamless **CI/CD pipelines**
-- 🔹 Building intuitive **Android applications**
-
-I bring the same level of dedication and passion to every project, focusing on reliability, security, and user experience.
+- Automate everything. Measure everything. Secure everything.
+- Prefer simple, observable, and scalable designs.
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect!
+<p>
+  <a href="mailto:sardarvali1912@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sardarvali"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/sardarvali"><img src="https://img.shields.io/badge/X(Twitter)-Follow-000000?logo=x&logoColor=white"/></a>
+  <a href="https://play.google.com/store/apps/dev?id="><img src="https://img.shields.io/badge/Google%20Play-Apps-414141?logo=google-play&logoColor=white"/></a>
+</p>
 
-I'm always excited to collaborate on interesting projects, discuss **DevOps strategies**, **cloud architectures**, or **Android development**. Feel free to reach out!
-
-<div align="center">
-  
-  **💼 Open to DevOps, Cloud Architecture, and Android Development Opportunities**
-  
-  **🌟 Let's build something amazing together!**
-
-</div>
-
----
-
-<div align="center">
-  
-  *"The cloud is not a destination, it's a journey. Let's navigate it together."*
-  
-</div>
+<p align="center">
+  🚀 If my work resonates, star the repos or reach out for collaboration!
+</p>
