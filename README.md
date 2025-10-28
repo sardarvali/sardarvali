@@ -70,58 +70,306 @@
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
+## 🛠️ TECHNOLOGY STACK
+
+<div align="center">
+
+### ☁️ Cloud Platforms & Infrastructure
+
+<table>
+<tr>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" />
+<br><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="GCP" />
+<br><sub><b>GCP</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure" />
+<br><sub><b>Azure</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" height="55" alt="OCI" />
+<br><sub><b>Oracle Cloud</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="55" height="55" alt="DigitalOcean" />
+<br><sub><b>DigitalOcean</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="55" height="55" alt="Heroku" />
+<br><sub><b>Heroku</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55" height="55" alt="Vercel" />
+<br><sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="55" height="55" alt="Netlify" />
+<br><sub><b>Netlify</b></sub>
+</td>
+</tr>
+</table>
+
+### 🐳 DevOps & Orchestration
+
+<table>
+<tr>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="55" height="55" alt="Kubernetes" />
+<br><sub><b>Kubernetes</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" height="55" alt="Terraform" />
+<br><sub><b>Terraform</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" height="55" alt="Jenkins" />
+<br><sub><b>Jenkins</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="55" height="55" alt="Ansible" />
+<br><sub><b>Ansible</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="55" height="55" alt="ArgoCD" />
+<br><sub><b>ArgoCD</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab CI" />
+<br><sub><b>GitLab CI</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub Actions" />
+<br><sub><b>GitHub Actions</b></sub>
+</td>
+</tr>
+</table>
+
+### 💻 Programming Languages
+
+<table>
+<tr>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+<br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
+<br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" alt="Kotlin" />
+<br><sub><b>Kotlin</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" height="55" alt="Go" />
+<br><sub><b>Go</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55" alt="Bash" />
+<br><sub><b>Bash</b></sub>
+</td>
+</tr>
+</table>
+
+### 🌐 Web Development & Frameworks
+
+<table>
+<tr>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" />
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express" />
+<br><sub><b>Express.js</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" alt="Next.js" />
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" />
+<br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" />
+<br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="55" alt="Tailwind" />
+<br><sub><b>Tailwind CSS</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="Bootstrap" />
+<br><sub><b>Bootstrap</b></sub>
+</td>
+</tr>
+</table>
+
+### 📱 Mobile & Cross-Platform
+
+<table>
+<tr>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" height="55" alt="Android" />
+<br><sub><b>Android</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55" alt="Android Studio" />
+<br><sub><b>Android Studio</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter" />
+<br><sub><b>Flutter</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React Native" />
+<br><sub><b>React Native</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase" />
+<br><sub><b>Firebase</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="55" height="55" alt="Material UI" />
+<br><sub><b>Material UI</b></sub>
+</td>
+</tr>
+</table>
+
+### 🗄️ Databases & Storage
+
+<table>
+<tr>
+<td align="center" width="12.5%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
+<br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" />
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" />
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" alt="Redis" />
+<br><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite" />
+<br><sub><b>SQLite</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firestore" />
+<br><sub><b>Firestore</b></sub>
+</td>
+</tr>
+</table>
+
+### 🔧 Tools & Platforms
+
+<table>
+<tr>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" />
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+<br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab" />
+<br><sub><b>GitLab</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" />
+<br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="Nginx" />
+<br><sub><b>Nginx</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
+<br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" height="55" alt="IntelliJ" />
+<br><sub><b>IntelliJ IDEA</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" alt="Postman" />
+<br><sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
+
+### 📊 Monitoring & Observability
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55" height="55" alt="Prometheus" />
+<br><sub><b>Prometheus</b></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55" height="55" alt="Grafana" />
+<br><sub><b>Grafana</b></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="55" height="55" alt="ELK Stack" />
+<br><sub><b>ELK Stack</b></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="55" height="55" alt="Datadog" />
+<br><sub><b>Datadog</b></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" width="55" height="55" alt="Sentry" />
+<br><sub><b>Sentry</b></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/newrelic/newrelic-original.svg" width="55" height="55" alt="New Relic" />
+<br><sub><b>New Relic</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-<details open>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,ansible" />
-  <br/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>💻 Programming & Development</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,kotlin,python,nodejs,html,css" />
-  <br/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>📱 Mobile & Database</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,mongodb,sqlite" />
-  <br/>
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔧 DevOps & Tools</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash" />
-  <br/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-FF6C37?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-</details>
 
 ---
+
+<br/>
+
 
 <div align="center">
 
