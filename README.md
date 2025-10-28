@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9333EA&height=200&section=header&text=Syed%20Sardar%20Valli&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20|%20DevOps%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" alt="Header" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Syed+Sardar+Valli;Cloud+%7C+DevOps+%7C+Android+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sardarvali&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sardarvali?label=Followers&style=for-the-badge&color=9333EA" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Native-2E9EF7?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=for-the-badge" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=sardarvali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sardarvali?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 <div align="center">
