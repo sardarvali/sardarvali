@@ -20,7 +20,7 @@
 <a href="https://github.com/sardarvali">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://syed-sardar-vali.web.app/">
+<a href="https://syed-sardar-valli.web.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="tel:+919052579129">
