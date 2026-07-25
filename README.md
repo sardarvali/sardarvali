@@ -1,78 +1,307 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Syed+Sardar+Valli;Cloud+%7C+DevOps+%7C+Android+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
-</h1>
+<!-- ═══════════════════════ TOP WAVE HEADER ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9333EA&height=210&section=header&text=Syed%20Sardar%20Valli&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Backend%20·%20ML%20·%20Android%20·%20Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=19" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sardarvali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sardarvali?label=Followers&style=social" alt="GitHub Followers" />
+<div align="center">
+
+<a href="https://github.com/sardarvali">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=2E9EF7&center=true&vCenter=true&width=780&lines=Java+%26+Spring+Boot+Backend+Engineer;ML+Engineer+%7C+PyTorch+%2B+EfficientNet-B4+%2B+BiLSTM;Android+Developer+%7C+Kotlin+%2B+MVVM+%2B+Firebase;Cloud+%26+DevOps+%7C+Docker+%2B+Azure+%2B+OCI;Developer+of+ClassVault+%E2%80%94+Live+Multi-Tenant+Platform" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sardarvali&label=Profile+Views&color=2E9EF7&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/sardarvali?tab=followers">
+    <img src="https://img.shields.io/github/followers/sardarvali?style=flat-square&color=9333EA&logo=github&label=Followers" alt="Followers" />
+  </a>
 </p>
 
-<div align="center">
-  
-### 🌐 Connect With Me
-
-<a href="mailto:syedsardarvali246@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/syed-sardar-valli">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/sardarvali">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://syed-sardar-valli.web.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="tel:+919052579129">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 💫 About Me
+<p>
+  <a href="mailto:syedsardarvali246@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/syed-sardar-valli">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sardarvali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://syed-sardar-valli.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.classvault.page">
+    <img src="https://img.shields.io/badge/🌐_ClassVault-Live_Platform-2E9EF7?style=for-the-badge" alt="ClassVault" />
+  </a>
+  &nbsp;
+  <a href="tel:+919052579129">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```yaml
-👨‍💻 Profile:
-  name: "Syed Sardar Valli"
-  title: "Cloud & DevOps Engineer"
-  education: "B.Tech CSE @ LPU"
-  location: "Punjab, India 🇮🇳"
-  
-🎯 Expertise:
-  - Cloud Architecture (OCI, AWS, GCP)
-  - DevOps & CI/CD Automation
-  - Full-Stack Development
-  - Mobile App Development (Android)
-  - Infrastructure as Code
-  
-🚀 Currently:
-  - Building cloud-native solutions
-  - Mastering Kubernetes & Terraform
-  - Contributing to open source
-  - Pursuing advanced OCI certifications
-  
-💡 Philosophy:
-  "Automate everything, scale infinitely,
-   secure by default, deploy fearlessly"
-```
-
-<br clear="right"/>
 
 ---
 
 <div align="center">
 
-## 🛠️ TECHNOLOGY STACK
+## 👨‍💻 About Me
+
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+```yaml
+👨‍💻 Profile:
+  name      : "Syed Sardar Valli"
+  education : "B.Tech CSE — Cloud Computing (Google Cloud) @ LPU"
+  status    : "Final Year · Open to Full-Time Opportunities"
+  location  : "India 🇮🇳"
+
+💼 Experience:
+  company   : "Broadridge Financial Solutions"
+  program   : "Industry Immersion Program — DevOps Track"
+  period    : "Jun – Jul 2025"
+
+🚀 Flagship Project:
+  name      : "ClassVault — Live Multi-Tenant Educational Platform"
+  url       : "www.classvault.page  ← serving a real institution"
+  scale     : "250+ REST endpoints · 80+ controllers · 6 user roles"
+  stack     : "Java 17 · Spring Boot 3.2 · PostgreSQL 16 · Redis
+               Docker · Nginx · Azure Blob · WebSocket/STOMP"
+  arch      : "Modular monolith (re-architected from AKS microservices)"
+
+🎯 Core Strengths:
+  backend   : Java 17, Spring Boot 3.2, REST APIs, PostgreSQL, Redis
+  ml_ai     : Python, PyTorch, EfficientNet-B4, BiLSTM, Attention, FastAPI
+  android   : Kotlin, MVVM, Jetpack, Firebase, ML Kit, Room DB
+  cloud     : Azure, Docker, AKS (prev), GKE, OCI, Nginx
+
+💡 Philosophy:
+  "Build it right · Deploy it fast · Scale it fearlessly"
+```
+
+<br clear="right" />
+
+---
 
 <div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<!-- ════════════════ CLASSVAULT ════════════════ -->
+<table>
+<tr>
+<td>
+
+### 🎓 ClassVault &nbsp;&nbsp; [![Live Platform](https://img.shields.io/badge/🌐_LIVE-www.classvault.page-2E9EF7?style=flat-square)](https://www.classvault.page)
+
+> **Independently architected, built, and deployed. Currently serving a real educational institution in production.**
+
+<table>
+<tr>
+<td width="50%">
+
+**Tech Stack**
+
+`Java 17` `Spring Boot 3.2` `PostgreSQL 16` `Redis`  
+`Docker` `Docker Compose` `Nginx` `Azure Blob Storage`  
+`WebSocket / STOMP` `Razorpay` `Flyway Migrations`
+
+</td>
+<td width="50%">
+
+**Architecture Story**
+
+Originally deployed as **microservices on AKS** → deliberately re-architected to a **modular monolith on Docker Compose** — a cost-driven, documented decision with explicit trade-off analysis
+
+</td>
+</tr>
+</table>
+
+| | Metric | Value |
+|-|--------|-------|
+| 🔗 | REST Endpoints | **250+** |
+| 🎛️ | Controllers | **80+** |
+| 👥 | User Roles | **6** (Student, Faculty, Admin, Parent, Librarian, Staff) |
+| 💬 | Real-time | WebSocket / STOMP chat |
+| 💳 | Payments | Razorpay integration |
+| 📝 | Audit | Full audit logging pipeline |
+| 🔄 | Migrations | Flyway-managed schema versioning |
+| ☁️ | Storage | Azure Blob Storage |
+
+[![Live Site](https://img.shields.io/badge/Visit_Live_Platform-www.classvault.page-2E9EF7?style=for-the-badge&logo=springboot&logoColor=white)](https://www.classvault.page)
+[![Source](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/sardarvali)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════ DEEPFAKE + ADOPET ════════════════ -->
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 DeepFake Detector V4
+
+> Hybrid deep learning pipeline targeting **93–96% AUC** on FaceForensics++
+
+```
+Model Architecture:
+  EfficientNet-B4  →  spatial feature extraction
+  BiLSTM           →  temporal sequence modeling
+  Multi-Head Attn  →  cross-frame attention fusion
+
+Serving  : FastAPI inference endpoint
+Dataset  : FaceForensics++
+Target   : 93–96% AUC
+```
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/EfficientNet--B4-FF6C37?style=flat-square" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/sardarvali)
+
+</td>
+<td width="50%">
+
+### 🐾 AdoPet
+
+> Production-scale Android pet adoption app with ML-powered features and a full Firebase backend
+
+```
+Scale:
+  Files  : ~150   |   LOC: 30,000+
+  Roles  : 3 (Adopter · Owner · Admin)
+
+Features:
+  ✓ Firebase Auth + Firestore + Storage
+  ✓ Google Maps SDK (geolocation)
+  ✓ ML Kit (image recognition)
+  ✓ Room Database (offline cache)
+  ✓ MVVM + Jetpack Architecture
+  ✓ Material Design 3 UI
+```
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-9333EA?style=flat-square" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/sardarvali)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💼 Professional Experience
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+**🏢 Broadridge Financial Solutions**  
+**Industry Immersion Program — DevOps Track** &nbsp;|&nbsp; Jun – Jul 2025
+
+Hands-on DevOps engineering within a global financial technology firm. Worked on enterprise CI/CD pipelines, containerization workflows, and infrastructure automation in a production-grade environment.
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD_Pipelines-4CAF50?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/DevOps_Practices-FF6C37?style=flat-square" />
+<img src="https://img.shields.io/badge/Enterprise_Engineering-0077B5?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Technology Stack
+
+### ☕ Backend Frameworks & APIs
+
+<table>
+<tr>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot" />
+<br><sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI" />
+<br><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" />
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express.js" />
+<br><sub><b>Express.js</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask" />
+<br><sub><b>Flask</b></sub>
+</td>
+</tr>
+</table>
+
+### 🤖 Machine Learning & AI
+
+<table>
+<tr>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" />
+<br><sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow" />
+<br><sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV" />
+<br><sub><b>OpenCV</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" />
+<br><sub><b>NumPy</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas" />
+<br><sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55" alt="Jupyter" />
+<br><sub><b>Jupyter</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="scikit-learn" />
+<br><sub><b>scikit-learn</b></sub>
+</td>
+</tr>
+</table>
 
 ### ☁️ Cloud Platforms & Infrastructure
 
@@ -157,8 +386,16 @@
 <table>
 <tr>
 <td align="center" width="10%">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+<br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="10%">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
 <br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" alt="Kotlin" />
+<br><sub><b>Kotlin</b></sub>
 </td>
 <td align="center" width="10%">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
@@ -169,16 +406,8 @@
 <br><sub><b>TypeScript</b></sub>
 </td>
 <td align="center" width="10%">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
-<br><sub><b>Java</b></sub>
-</td>
-<td align="center" width="10%">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
 <br><sub><b>C++</b></sub>
-</td>
-<td align="center" width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" alt="Kotlin" />
-<br><sub><b>Kotlin</b></sub>
 </td>
 <td align="center" width="10%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" height="55" alt="Go" />
@@ -195,14 +424,6 @@
 
 <table>
 <tr>
-<td align="center" width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" />
-<br><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express" />
-<br><sub><b>Express.js</b></sub>
-</td>
 <td align="center" width="10%">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
 <br><sub><b>React</b></sub>
@@ -230,31 +451,31 @@
 </tr>
 </table>
 
-### 📱 Mobile & Cross-Platform
+### 📱 Mobile & Android Development
 
 <table>
 <tr>
-<td align="center" width="12.5%">
+<td align="center" width="12%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" height="55" alt="Android" />
 <br><sub><b>Android</b></sub>
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="12%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55" alt="Android Studio" />
 <br><sub><b>Android Studio</b></sub>
 </td>
-<td align="center" width="12.5%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter" />
-<br><sub><b>Flutter</b></sub>
-</td>
-<td align="center" width="12.5%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React Native" />
-<br><sub><b>React Native</b></sub>
-</td>
-<td align="center" width="12.5%">
+<td align="center" width="12%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase" />
 <br><sub><b>Firebase</b></sub>
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter" />
+<br><sub><b>Flutter</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React Native" />
+<br><sub><b>React Native</b></sub>
+</td>
+<td align="center" width="12%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="55" height="55" alt="Material UI" />
 <br><sub><b>Material UI</b></sub>
 </td>
@@ -265,34 +486,34 @@
 
 <table>
 <tr>
-<td align="center" width="12.5%">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
-<br><sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="12.5%">
+<td align="center" width="12%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" />
 <br><sub><b>PostgreSQL</b></sub>
 </td>
-<td align="center" width="12.5%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" />
-<br><sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="12.5%">
+<td align="center" width="12%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" alt="Redis" />
 <br><sub><b>Redis</b></sub>
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="12%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
+<br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="12%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" />
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="12%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite" />
 <br><sub><b>SQLite</b></sub>
 </td>
-<td align="center" width="12.5%">
+<td align="center" width="12%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firestore" />
 <br><sub><b>Firestore</b></sub>
 </td>
 </tr>
 </table>
 
-### 🔧 Tools & Platforms
+### 🔧 Developer Tools & Platforms
 
 <table>
 <tr>
@@ -305,10 +526,6 @@
 <br><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab" />
-<br><sub><b>GitLab</b></sub>
-</td>
-<td align="center" width="10%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" />
 <br><sub><b>Linux</b></sub>
 </td>
@@ -317,16 +534,20 @@
 <br><sub><b>Nginx</b></sub>
 </td>
 <td align="center" width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
-<br><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="10%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" height="55" alt="IntelliJ" />
 <br><sub><b>IntelliJ IDEA</b></sub>
 </td>
 <td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
+<br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="10%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" alt="Postman" />
 <br><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab" />
+<br><sub><b>GitLab</b></sub>
 </td>
 </tr>
 </table>
@@ -335,27 +556,27 @@
 
 <table>
 <tr>
-<td align="center" width="16.66%">
+<td align="center" width="16%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55" height="55" alt="Prometheus" />
 <br><sub><b>Prometheus</b></sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="16%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55" height="55" alt="Grafana" />
 <br><sub><b>Grafana</b></sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="16%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="55" height="55" alt="ELK Stack" />
 <br><sub><b>ELK Stack</b></sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="16%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="55" height="55" alt="Datadog" />
 <br><sub><b>Datadog</b></sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="16%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" width="55" height="55" alt="Sentry" />
 <br><sub><b>Sentry</b></sub>
 </td>
-<td align="center" width="16.66%">
+<td align="center" width="16%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/newrelic/newrelic-original.svg" width="55" height="55" alt="New Relic" />
 <br><sub><b>New Relic</b></sub>
 </td>
@@ -364,145 +585,15 @@
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-
-<div align="center">
-
-## 🚀 Featured Projects Portfolio
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐾 PetCare Adoption Platform
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
-**Secure web-based pet adoption ecosystem**
-
-🔐 Firebase Authentication & Authorization  
-📊 Real-time Admin Dashboard  
-💾 Cloud Firestore Integration  
-📱 Responsive Multi-Device Design  
-✨ Multi-step Form with Validation
-
-🔗 View Project
-
-</td>
-<td width="50%">
-
-### ⚡ GAIL Gas Management System
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-
-**Enterprise gas distribution monitoring app**
-
-👥 Role-Based Access Control  
-📡 Real-time API Integration  
-💼 Workflow Approval System  
-🎨 Material Design UI  
-⚙️ 10+ Feature Modules
-
-🔗 View Project
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-**Modern responsive portfolio showcase**
-
-🎨 Contemporary Design System  
-⚡ Optimized Performance  
-📱 Mobile-First Approach  
-📧 Integrated Contact Form  
-🚀 Firebase Cloud Hosting
-
-🌐 Visit Site
-
-</td>
-<td width="50%">
-
-### 🐳 Docker WebApp Deployment
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-
-**Containerized microservices architecture**
-
-📦 Multi-Container Setup  
-🔄 Docker Compose Orchestration  
-🚀 Scalable Deployment  
-🛡️ Isolated Environments  
-⚙️ CI/CD Ready Infrastructure
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🍽️ Restaurant Management System
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white" />
-
-**End-to-end restaurant operations platform**
-
-🍽️ Order Management System  
-📊 Inventory Tracking  
-👥 Staff Management Module  
-💰 Billing & Invoicing  
-📈 Analytics Dashboard
-
-</td>
-<td width="50%">
-
-### 💬 Real-Time ChatApp
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-
-**Feature-rich messaging application**
-
-💬 Real-time Messaging  
-👤 User Authentication  
-📸 Media Sharing  
-🔔 Push Notifications  
-💾 Message Persistence
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
 
-## 🏆 Oracle Cloud Infrastructure Certifications
+## 🏆 Certifications
 
-<img src="https://img.shields.io/badge/Certified-Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-Certified_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/IBM-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 
 </div>
 
@@ -514,40 +605,40 @@
 
 <br/>
 
-[!OCI AI Foundations](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4ED6C5B5370C2C4643BCAF2269AC3A13F953A3846B982A9339038288D35FB3E0)
+[![OCI Generative AI Professional](https://img.shields.io/badge/OCI-GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FFEBCE22E53B5A042F419C9F7AED5B19650F90179411AB78D1491E3CF1B88FEC)
 
-[!OCI Generative AI](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FFEBCE22E53B5A042F419C9F7AED5B19650F90179411AB78D1491E3CF1B88FEC)
-
-</td>
-<td align="center" width="33%">
-
-### ☁️ Cloud & Architecture
-
-<br/>
-
-[!OCI Foundations](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1327A6626097491F45C9022CEFA2A75845A4DC4123F49DBE0C58A5965464FBF3)
-
-[!OCI Multicloud](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEC3AA39FB719A25FA3B2E008ECC29B6AE6751331150011A7C8CD26F74FCEF43)
+[![OCI AI Foundations](https://img.shields.io/badge/OCI-AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4ED6C5B5370C2C4643BCAF2269AC3A13F953A3846B982A9339038288D35FB3E0)
 
 </td>
 <td align="center" width="33%">
 
-### 🔧 DevOps & Networking
+### 🔧 DevOps & Cloud
 
 <br/>
 
-[!OCI DevOps](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2B6FBFD47BEDE54DCFD41C14AF2120B19B2F4F4B7CBE3259B7131530FA979FC0)
+[![OCI DevOps Professional](https://img.shields.io/badge/OCI-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2B6FBFD47BEDE54DCFD41C14AF2120B19B2F4F4B7CBE3259B7131530FA979FC0)
 
-[!OCI Networking](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8E3457B8F658EF1CA7C25B51CCD0800F8A819C4310A0817A4FE9DC639A447A07)
+[![OCI Foundations](https://img.shields.io/badge/OCI-Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1327A6626097491F45C9022CEFA2A75845A4DC4123F49DBE0C58A5965464FBF3)
+
+[![OCI Multicloud](https://img.shields.io/badge/OCI-Multicloud-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DEC3AA39FB719A25FA3B2E008ECC29B6AE6751331150011A7C8CD26F74FCEF43)
+
+</td>
+<td align="center" width="33%">
+
+### 🏭 Engineering & Networking
+
+<br/>
+
+[![IBM Applied SE Fundamentals](https://img.shields.io/badge/IBM-Applied_SE_Fundamentals-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges)
+
+[![OCI Networking](https://img.shields.io/badge/OCI-Networking-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8E3457B8F658EF1CA7C25B51CCD0800F8A819C4310A0817A4FE9DC639A447A07)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-*Click on any badge to verify certification authenticity*
-
+<sub>Click any badge to verify certification authenticity</sub>
 </div>
 
 ---
@@ -583,33 +674,42 @@
 
 <div align="center">
 
-## 🎯 Current Focus & Learning Path
+## 🎯 What I'm Building
 
 </div>
 
 ```javascript
-const developerJourney = {
-  currentMission: "Building scalable cloud-native solutions",
-  
-  learning: {
-    advanced: ["Kubernetes Orchestration", "Terraform IaC", "OCI Advanced Services"],
-    exploring: ["Service Mesh (Istio)", "GitOps (ArgoCD)", "Observability Stack"],
-    mastering: ["Microservices Patterns", "Cloud Security", "CI/CD Pipelines"]
+const sardarvalli = {
+
+  currentlyBuilding: {
+    flagship : "ClassVault — iterating features, serving real users",
+    ml       : "DeepFake Detector V4 — pushing toward 93–96% AUC",
+    android  : "AdoPet — polishing for Play Store submission"
   },
-  
-  building: {
-    personal: ["Multi-Cloud Management Dashboard", "DevOps Automation Toolkit"],
-    collaborative: ["Open Source Contributions", "Community Projects"]
-  },
-  
-  goals2025: [
-    "Contribute to 10+ open source projects",
-    "Build production-grade microservices platform",
-    "Earn advanced cloud & DevOps certifications",
-    "Mentor aspiring cloud engineers"
+
+  activeLearning: [
+    "Advanced Kubernetes patterns (CKA study path)",
+    "Distributed systems design at scale",
+    "LLM fine-tuning & RAG pipeline engineering",
+    "System design for high-traffic architectures"
   ],
-  
-  mantra: "Code with purpose, deploy with confidence, scale with wisdom"
+
+  openTo: [
+    "Java / Spring Boot Backend Engineering roles",
+    "ML / AI Engineering roles",
+    "Android Development roles",
+    "Cloud & DevOps roles"
+  ],
+
+  certifications: {
+    oracle : ["OCI GenAI Professional", "OCI DevOps Professional",
+              "OCI Foundations", "OCI Multicloud", "OCI Networking"],
+    ibm    : ["Applied Software Engineering Fundamentals"]
+  },
+
+  contact : "syedsardarvali246@gmail.com",
+  mantra  : "Code with purpose · Deploy with confidence · Scale with wisdom"
+
 };
 ```
 
@@ -617,99 +717,39 @@ const developerJourney = {
 
 <div align="center">
 
-## 💼 Professional Opportunities
+## 📬 Let's Build Something Together
+
+<br/>
+
+<a href="mailto:syedsardarvali246@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/syed-sardar-valli">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/sardarvali">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://syed-sardar-valli.web.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.classvault.page">
+  <img src="https://img.shields.io/badge/ClassVault-2E9EF7?style=for-the-badge&logo=springboot&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> *"The best way to predict the future is to build it."*
+
+<br/>
+
+**⭐ sardarvali · Crafting tomorrow's solutions, one commit at a time 🚀**
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🎯 Currently Seeking
-
-✅ **Cloud Engineer / Solutions Architect**  
-✅ **DevOps Engineer / SRE**  
-✅ **Full-Stack Developer**  
-✅ **Android Developer**  
-✅ **Open Source Collaborations**  
-✅ **Internships & Co-op Programs**
-
-</td>
-<td align="center" width="50%">
-
-### 💪 What I Bring
-
-🚀 **Cloud-Native Architecture Design**  
-⚙️ **End-to-End DevOps Pipeline**  
-📱 **Cross-Platform Development**  
-🔒 **Security-First Mindset**  
-🤝 **Collaborative Team Player**  
-📈 **Continuous Learning Attitude**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📬 Let's Build Something Amazing Together
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 📧 Email
-syedsardarvali246@gmail.com
-
-</td>
-<td align="center">
-
-### 💼 LinkedIn
-/in/syed-sardar-valli
-
-</td>
-<td align="center">
-
-### 🌐 Portfolio
-syed-sardar-vali.web.app
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 📱 WhatsApp
-+91 90525 79129
-
-</td>
-<td align="center">
-
-### 🐙 GitHub
-@sardarvali
-
-</td>
-<td align="center">
-
-### 💬 Open to
-Coffee Chats ☕
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> *"The best way to predict the future is to build it"*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9333EA&height=120&section=footer" alt="Footer" />
-
-**⭐ From sardarvali | Crafting tomorrow's solutions, one commit at a time 🚀**
-
-</div>
-
+<!-- ═══════════════════════ BOTTOM WAVE ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:2E9EF7&height=120&section=footer" />
